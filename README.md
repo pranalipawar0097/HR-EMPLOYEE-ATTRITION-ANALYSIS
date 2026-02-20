@@ -4,7 +4,7 @@ HR Employee Attrition Analysis | SQL Analyzed IBM HR attrition data using SQL to
 # HR Employee Attrition Analysis | SQL
 
 ##  Project Overview
-This project analyzes employee attrition data from IBM HR Analytics to uncover the key factors influencing employee turnover. The analysis focuses on departments, job roles, income levels, overtime, experience, and job satisfaction using SQL-based queries.
+This project analyzes employee attrition data from IBM HR Analytics to uncover the key foctors influencing employee turnover. The analysis focuses on departments, job roles, income levels, overtime, experience, and job satisfaction using SQL-based queries.
 
 ##  Objectives
 - Calculate the overall employee attrition rate  
